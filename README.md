@@ -21,6 +21,20 @@
 <td>Beautiful Soup</td>
 </tr>
 
+<tr>
+<th>Project Link</th>
+<th>Area</th>
+<th>Project Description</th>
+<th>Libraries</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>👩🏻‍💻 <a href="https://github.com/gianicoleb/Ebay_Price_Tracker">British Airways customer satisfaction analysis</a></td>
+<td>Programming</td>
+<td>This project analyzes customer reviews for British Airways using data from www.airlinequality.com. By inspecting different aspects of these reviews, the aim is to unearth patterns and trends that affect customer satisfaction. These patterns can guide British Airways in formulating strategies to enhance customer experience.</td>
+<td>Beautiful Soup,Pandas, Matplotlib,Seaborn, nltk </td>
+</tr>
 
 </ul>
 <hr>
