@@ -10,7 +10,7 @@
 <th>Project Link</th>
 <th>Area</th>
 <th>Project Description</th>
-<th>Libraries</th>
+<th>Languages/Libraries</th>
 </tr>
 </thead>
 <tbody>
@@ -18,7 +18,7 @@
 <td>👩🏻‍💻 <a href="https://github.com/gianicoleb/Ebay_Price_Tracker">Ebay Price Tracker</a></td>
 <td>Programming</td>
 <td>This script allows users to track products on eBay based on a specific search term and a desired price point. Functionality.</td>
-<td>Beautiful Soup</td>
+<td>Python, Beautiful Soup, Pandas,SQlite</td>
 </tr>
 
 
@@ -29,6 +29,15 @@
 <td>Programming</td>
 <td>This project analyzes customer reviews for British Airways using data from www.airlinequality.com. By inspecting different aspects of these reviews, the aim is to unearth patterns and trends that affect customer satisfaction. These patterns can guide British Airways in formulating strategies to enhance customer experience.</td>
 <td>Beautiful Soup,Pandas, Matplotlib,Seaborn, nltk </td>
+</tr>
+
+</thead>
+<tbody>
+<tr>
+<td>👩🏻‍💻 <a href="https://github.com/gianicoleb/Query_AutoComplete/tree/main">Query Autocomplete</a></td>
+<td>Programming</td>
+<td>This program provides a robust query autocomplete feature. When users input a prefix, the system scans its dictionary to offer potential word completions. Furthermore, if a query doesn't find any direct matches in our dictionary, the system recommends the top 3 most similar entries based on an edit distance algorithm.</td>
+<td>C++ </td>
 </tr>
 
 </ul>
