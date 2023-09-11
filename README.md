@@ -6,62 +6,8 @@
 <li><a href="#sql">SQL</a></li>
 <li><a href="#python">Python</a></li>
 <li><a href="#tableau">Tableau</a></li>
-<li><a href="#katies-guides">Katie's Guides</a></li>
-</ul>
-<h1 tabindex="-1" dir="auto"><a id="user-content-data-engineering" class="anchor" aria-hidden="true" tabindex="-1" href="#data-engineering"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Data Engineering</h1>
-<table>
-<thead>
-<tr>
-<th>Project Link</th>
-<th>Completion Date</th>
-<th>Tools</th>
-<th>Project Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>🚗 <a href="https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project">Uber Taxi</a></td>
-<td>May 2023</td>
-<td>Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio</td>
-<td>Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio.</td>
-</tr>
-<tr>
-<td>🐶 <a href="https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption">Dog Adoption</a></td>
-<td>Mar 2023</td>
-<td>Python, PostgreSQL, Jupyter Notebook</td>
-<td>Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook.</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h1 tabindex="-1" dir="auto"><a id="user-content-sql" class="anchor" aria-hidden="true" tabindex="-1" href="#sql"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>SQL</h1>
-<table>
-<thead>
-<tr>
-<th>Project Link</th>
-<th>Area of Analysis</th>
-<th>Project Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>💡 <a href="https://github.com/katiehuangx/8-Week-SQL-Challenge">8-Week SQL Challenges</a></td>
-<td>Data analysis, data cleaning, data transformation</td>
-<td>This repo serves as the solution for the 8 case studies from the <a href="https://8weeksqlchallenge.com" rel="nofollow">#8WeekSQLChallenge</a>. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.</td>
-</tr>
-<tr>
-<td>👩🏻‍⚕️ <a href="https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md">Health Analytics Case Study</a></td>
-<td>Health analysis</td>
-<td>I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users.</td>
-</tr>
-<tr>
-<td>🦠 <a href="https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market">Covid-19 and the Impact on Malaysia Stock Market</a></td>
-<td>Data cleaning, data analysis</td>
-<td>A project close to 🏡 home. Inspired by Alex Freberg's <a href="https://www.youtube.com/watch?v=qfyynHBFOsM&amp;list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&amp;index=1" rel="nofollow">Data Exploration Project</a>, I analysed global and local Covid-19 cases &amp; the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau.</td>
-</tr>
-</tbody>
-</table>
-<hr>
+
+
 <h1 tabindex="-1" dir="auto"><a id="user-content-python" class="anchor" aria-hidden="true" tabindex="-1" href="#python"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Python</h1>
 <table>
 <thead>
