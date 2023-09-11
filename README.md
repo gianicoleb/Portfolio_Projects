@@ -18,7 +18,7 @@
 <td>👩🏻‍💻 <a href="https://github.com/gianicoleb/Ebay_Price_Tracker">Ebay Price Tracker</a></td>
 <td>Programming</td>
 <td>This script allows users to track products on eBay based on a specific search term and a desired price point. Functionality.</td>
-<td>-</td>
+<td>pandas, matplotlib</td>
 </tr>
 <tr>
 <td>📺 <a href="https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb">TMDb Movie Analysis</a></td>
