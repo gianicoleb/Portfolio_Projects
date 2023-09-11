@@ -15,9 +15,9 @@
 </thead>
 <tbody>
 <tr>
-<td>👩🏻‍💻 <a href="https://github.com/katiehuangx/CS50P/blob/main/README.md">CS50P - Ongoing</a></td>
+<td>👩🏻‍💻 <a href="https://github.com/gianicoleb/Ebay_Price_Tracker">Ebay Price Tracker</a></td>
 <td>Programming</td>
-<td>This repo contains the solution to the problem sets in <a href="https://www.edx.org/course/cs50s-introduction-to-programming-with-python" rel="nofollow">Harvardx CS50P Introduction to Programming with Python</a>.</td>
+<td>This script allows users to track products on eBay based on a specific search term and a desired price point. Functionality.</td>
 <td>-</td>
 </tr>
 <tr>
