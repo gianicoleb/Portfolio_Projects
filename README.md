@@ -46,6 +46,7 @@
 <td> 📎<a href="https://github.com/gianicoleb/TurnoverAnalysis">Company Turnover Analysis</a></td>
 <td>Programming</td>
 <td>This project focuses on analyzing the turnover rate of employees within a company. The analysis is based on several key factors, including satisfaction ratings, evaluation ratings, working hours, tenure, and department. The findings reveal that employees who leave the company typically have lower satisfaction ratings and work longer hours. Notably, the analysis identifies a strong correlation between employee promotions and reduced turnover rates. The project provides valuable insights into understanding and addressing employee retention within the organization. </td>
+  <td>Tableau, Python, Pptx </td>
 </tr>
 
 </ul>
