@@ -11,6 +11,18 @@
 <th>Area</th>
 <th>Project Description</th>
 <th>Languages/Libraries</th>
+
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td> 📎<a href="https://gianicoleb.github.io/LanguageScorer/">Language Vocab Quiz</a></td>
+<td>Programming</td>
+<td>This code was designed to help improve a beginner language learner's vocabulary and was created with the 80-20 rule in mind. You choose your target language and the program wil iterate through the language's 1000 most frequently used words, and the user respond yes or no to knowing them. The program stops when the user hits 75% accuracy and outputs a list of vocabulary words to practice. </td>
+<td>Python</td>
+</tr>
+
+
 </tr>
 </thead>
 <tbody>
