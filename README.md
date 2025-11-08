@@ -12,6 +12,16 @@
 <th>Project Description</th>
 <th>Languages/Libraries</th>
 
+<tr>
+  <td>📎 <a href="https://github.com/imstok01/CSE550_50-Group-Project">BetterMoodBetterYou</a></td>
+  <td>Full-Stack Web App / Behavioral Technology</td>
+  <td>
+    Collaborated on a full-stack wellness application that tracks users’ mood and activity through daily self-reports, providing personalized recommendations such as music, mantras, and physical activities to enhance emotional wellbeing. Integrated psychological principles with data-driven design to promote mental health awareness and self-regulation.
+  </td>
+  <td>Python (Flask), Next.js, TypeScript, Tailwind CSS, PostgreSQL, SendGrid</td>
+</tr>
+
+
   </tr>
 </thead>
 <tbody>
