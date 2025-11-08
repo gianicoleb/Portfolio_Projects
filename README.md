@@ -13,6 +13,18 @@
 <th>Languages/Libraries</th>
 
 <tr>
+  <td>📎 <a href="https://github.com/MoeMoeGo/Color-Coordinated-Sound-Sensor-MLM">Color-Coordinated Sound Sensor</a></td>
+  <td>Machine Learning / Accessibility</td>
+  <td>
+    Developed a Python-based machine learning model that converts real-time audio input into color-coded visual signals for individuals who are hard of hearing. 
+    Built data preprocessing pipelines using <b>Librosa</b>, <b>NumPy</b>, and <b>Pandas</b> to normalize and extract MFCC features, optimized for <b>Raspberry Pi</b> deployment. 
+    Contributed to an inclusive design initiative applying technology to improve sensory accessibility and environmental awareness.
+  </td>
+  <td>Python, Librosa, NumPy, Pandas</td>
+</tr>
+
+
+<tr>
   <td>📎 <a href="https://github.com/imstok01/CSE550_50-Group-Project">BetterMoodBetterYou</a></td>
   <td>Full-Stack Web App / Behavioral Technology</td>
   <td>
